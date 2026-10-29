@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pert9PemMOb</string>
+    <string name="posts_title">JSONPlaceholder Posts</string>
+    <string name="detail_title">Post Detail</string>
+    <string name="error_title">Connection Error</string>
+    <string name="error_message">Unable to fetch posts. Please check your network connection and try again.</string>
+    <string name="btn_retry">Retry Now</string>
+    <string name="post_id_format">POST #%1$d</string>
+    <string name="user_id_format">User ID: %1$d</string>
+    <string name="author_label">Author</string>
+    <string name="body_label">Post Body</string>
+</resources>
